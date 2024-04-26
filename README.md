@@ -1,4 +1,4 @@
-# Handyman User App
+<!-- # Handyman User App
 
 A new Flutter project.
 
@@ -8,7 +8,7 @@ https://apps.iqonic.design/docs/product/handyman-service/
 
 ### Before the start configuration in mobile app you can visit our video Tutorial ###
 
-## 1. How to configure a project after download the Zip code: 
+## 1. How to configure a project after download the Zip code:
  Video: https://youtu.be/CR445ssMRmA
 
 ## 2. How to configure build.Gradle in Android and Firebase Configurations
@@ -24,4 +24,4 @@ https://apps.iqonic.design/docs/product/handyman-service/
  Video: https://youtu.be/XI6sGQbuw1M
 
 ## 6. How to generate App Bundles in Android
- Video: https://youtu.be/ZawptmY379s
+ Video: https://youtu.be/ZawptmY379s -->
