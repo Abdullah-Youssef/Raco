@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051985319515",
+    "project_id": "app-raco-ksa",
+    "storage_bucket": "app-raco-ksa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051985319515:android:da66b6ef4f444e14a1117e",
+        "android_client_info": {
+          "package_name": "com.raco.ksa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051985319515-i3q4po6ptil5botrv64mmbor87qlakmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiM4S1Cncmqtd_Rojh22TNGyM0EdI71I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051985319515-i3q4po6ptil5botrv64mmbor87qlakmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
